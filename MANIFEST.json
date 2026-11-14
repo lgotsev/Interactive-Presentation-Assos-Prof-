@@ -1,0 +1,14 @@
+{
+  "release_date": "2026-11-14",
+  "approved_tested_sources": {
+    "index.html": {
+      "bytes": 133479,
+      "sha256": "6ac9bcb29546b78739b61ab6a592f1ca0b5c63ad8cf728025c07dea8b635c11a"
+    },
+    "hybrid-qml-stage5-compact-browser-preview.html": {
+      "bytes": 3147192,
+      "sha256": "aecb49b2b77ac6b612435fb6181f325fc3b948e902bf8832fdef06d070455ce9"
+    }
+  },
+  "slide_count": 17
+}
